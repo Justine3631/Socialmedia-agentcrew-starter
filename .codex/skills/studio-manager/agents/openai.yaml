@@ -1,0 +1,6 @@
+interface:
+  display_name: "工作台管家"
+  short_description: "管理双账号、视频项目、生命周期状态与岗位衔接流程"
+  default_prompt: "使用 $studio-manager 新建或继续一个视频项目，并告诉我当前状态和下一步。"
+policy:
+  allow_implicit_invocation: true

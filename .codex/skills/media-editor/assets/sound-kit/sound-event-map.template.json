@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "fps": 30,
+  "duration_s": 10,
+  "mix_target": {
+    "integrated_lufs": -16,
+    "true_peak_dbtp_max": -2
+  },
+  "layers": {
+    "center_bed": {
+      "asset": null,
+      "role": "章节连接",
+      "stereo": "narrow"
+    },
+    "material": [],
+    "wide_transient": [],
+    "result": []
+  },
+  "events": [
+    {
+      "id": "event-001",
+      "visible_action": "填写本期可见动作",
+      "trigger_frame": 0,
+      "asset": null,
+      "role": "material",
+      "level_db": -24,
+      "pan": 0,
+      "tail_ms": 180,
+      "sync": "contact_or_completion"
+    }
+  ],
+  "license_check": {
+    "all_assets_verified": false,
+    "evidence": []
+  }
+}

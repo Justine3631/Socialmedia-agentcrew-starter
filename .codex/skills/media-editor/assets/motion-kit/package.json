@@ -1,0 +1,8 @@
+{
+  "name": "editorial-motion-kit",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test editorial-motion.test.mjs"
+  }
+}

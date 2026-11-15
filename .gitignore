@@ -1,0 +1,27 @@
+.DS_Store
+.obsidian/
+__pycache__/
+*.py[cod]
+node_modules/
+.tmp/
+.env
+.env.*
+!.env.example
+*.local
+*.pem
+*.key
+*cookie*
+*session*.json
+.claude/settings.local.json
+outputs/
+sites/
+PROJECT_BOARD.md
+# Keep personal account data out of future commits. Existing tracked demo files remain tracked.
+accounts/**
+!accounts/demo/
+!accounts/demo/config.md
+!accounts/demo/style-bible.md
+!accounts/demo/idea-pool.md
+!accounts/demo/learning-log.md
+!accounts/demo/skill-base/
+!accounts/demo/skill-base/**
